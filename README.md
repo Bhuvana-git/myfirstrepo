@@ -8,3 +8,4 @@ Follow the instructions given below:
 ## LOCAL DEVELOPMENT
 1. Update README file to add instructions
 2. Commit changes to remote repository
+3. Push to remote
